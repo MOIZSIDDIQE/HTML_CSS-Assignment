@@ -44,3 +44,20 @@ div {
 .fiveCol {
     background-color: red;
 }
+
+tbody tr {
+    height: 40px;
+    width: 40px;
+}
+
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#text {
+    color: chartreuse;
+}
