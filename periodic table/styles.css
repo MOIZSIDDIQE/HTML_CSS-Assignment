@@ -24,3 +24,23 @@ div {
 
 }
 
+
+.firstCol {
+    background-color: rgb(52, 78, 192);
+}
+
+.secondCol {
+    background-color: violet;
+}
+
+.threeCol {
+    background-color: springgreen;
+}
+
+.fourCol {
+    background-color: orange;
+}
+
+.fiveCol {
+    background-color: red;
+}
