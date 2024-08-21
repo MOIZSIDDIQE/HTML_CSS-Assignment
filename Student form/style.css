@@ -28,3 +28,9 @@ div{
     font-size: 19px;
     margin-bottom: 20px;
 }
+.center:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: rgb(23, 250, 23);
+    font-weight: bold;
+}
