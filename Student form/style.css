@@ -34,3 +34,11 @@ div{
     background-color: rgb(23, 250, 23);
     font-weight: bold;
 }
+legend{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(212, 0, 255);
+}
+fieldset{
+    border: 10px double black;
+}
