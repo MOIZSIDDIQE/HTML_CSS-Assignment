@@ -1,8 +1,8 @@
-
 body {
     color: white;
     background-color: rgb(75, 51, 161);
 }
+
 tr td {
     padding-right: 1em;
 }
@@ -12,37 +12,43 @@ tr td {
     margin: 1em;
 }
 
-div{
+div {
     text-align: center;
     justify-content: center;
     align-items: center;
     word-spacing: 50px;
 }
-.center{
+
+.center {
     padding: 7px 20px;
     background-color: rgb(0, 0, 0);
     color: white;
-    border-radius:9px;
+    border-radius: 9px;
     box-shadow: 3px 3px 11px rgb(255, 255, 255);
     font-weight: bold;
     font-size: 19px;
     margin-bottom: 20px;
 }
-.center:hover{
+
+.center:hover {
     cursor: pointer;
     color: rgb(0, 0, 0);
     background-color: rgb(23, 250, 23);
     font-weight: bold;
 }
-legend{
+
+legend {
     font-size: 40px;
     text-align: center;
     color: rgb(212, 0, 255);
 }
-fieldset{
+
+fieldset {
     border: 10px double black;
 }
-.input,textarea{
-    box-shadow: 4px 8px 19px ;
+
+.input,
+textarea {
+    box-shadow: 4px 8px 19px;
     border: 2px solid rgb(132, 0, 255);
 }
