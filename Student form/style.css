@@ -42,3 +42,7 @@ legend{
 fieldset{
     border: 10px double black;
 }
+.input,textarea{
+    box-shadow: 4px 8px 19px ;
+    border: 2px solid rgb(132, 0, 255);
+}
