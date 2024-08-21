@@ -1,0 +1,20 @@
+
+body {
+    color: white;
+    background-color: rgb(75, 51, 161);
+}
+tr td {
+    padding-right: 1em;
+}
+
+#table {
+    color: rgb(251, 255, 0);
+    margin: 1em;
+}
+
+div{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 50px;
+}
