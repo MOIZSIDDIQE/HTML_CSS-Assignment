@@ -18,3 +18,13 @@ div{
     align-items: center;
     word-spacing: 50px;
 }
+.center{
+    padding: 7px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius:9px;
+    box-shadow: 3px 3px 11px rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 19px;
+    margin-bottom: 20px;
+}
